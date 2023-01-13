@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: ""
+excerpt: ""
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Columbia data science project showcase: [Estimating the Incidence of Sexual Assault on College Campuses](https://www.youtube.com/watch?v=loeR0OUvBYY&t=6s)
+
+[Solution](https://imstat.org/2021/07/17/student-puzzle-corner-34-deadline-september-10-2021/) to a fun IMS student puzzle about palindromic integers (full IMS bulletin [here]([link](https://imstat.org/wp-content/uploads/2021/05/Bulletin50_5.pdf)))
